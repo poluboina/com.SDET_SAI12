@@ -1,4 +1,4 @@
-package com.SDET_SAI12;
+package SDET_SAI_pac;
 
 public class C {
 
